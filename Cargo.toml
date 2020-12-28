@@ -10,7 +10,7 @@ license = "GPL-2.0"
 
 [dependencies]
 llvm-sys = "70"
-itertools = "0.4"
+itertools = "0.10"
 rand = "0.3"
 quickcheck = "0.3"
 tempfile = "2.1"
